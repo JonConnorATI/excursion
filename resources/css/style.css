@@ -37,9 +37,9 @@ body {
     text-align: right;
 }
 
-@media only screen and (max-width: 600px) {
-    body, .main--body img {
-      width: 100%;
+@media screen and (onlymax-width: 430px) {
+    body  {
+      width: 75%;
       
     }
 }
