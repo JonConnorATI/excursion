@@ -2,6 +2,7 @@ body {
     background-color: #000000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 
 }
 
@@ -35,11 +36,8 @@ body {
     font-size: 21px;
     color: grey;
     text-align: right;
+
 }
 
-@media screen and (onlymax-width: 430px) {
-    body  {
-      width: 75%;
-      
-    }
-}
+/*CONTAINER*/
+
